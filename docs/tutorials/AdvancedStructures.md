@@ -356,7 +356,7 @@ but a binary search 128 big will only take one check more than a binary search
 64 big, not a lot at all.
 
 If we construct a binary tree from the data above we get:
-![Imgur](https://web.archive.org/web/20190416012239im_/https://wiki.sa-mp.com/wroot/images2/f/fe/Binarytree.GIF)
+![Imgur](images/advancedstructures/Binarytree.GIF)
 
 If you read left to right, ignoring the vertical aspect you can see that the
 numbers are in order. Now we can try find the 7.
@@ -368,7 +368,7 @@ then left again to 7. This method took 4 comparisons to find the number
 would have taken 5.
 
 Lets say there is no 7, we would end up with this binary tree:
-![Binarytree-7-less](https://web.archive.org/web/20190416012239im_/https://wiki.sa-mp.com/wroot/images2/e/e5/Binarytree-7-less.GIF)
+![Binarytree-7-less](images/advancedstructures/Binarytree-7-less.GIF)
 
 This, unlike the example above, has a single child number (the 9), as well as 2
 and 0 child numbers. You only get a perfect tree when there are (2^n)-1 numbers
@@ -385,7 +385,7 @@ there aren't enough numbers for this to be the case but it's as near as
 possible). Constructing balanced trees is not easy, the generally accepted
 method of constructing almost balanced trees is putting the numbers in in a
 random order, this may mean you end up with something like this:
-![Binarytree-uneven](https://web.archive.org/web/20190416012239im_/https://wiki.sa-mp.com/wroot/images2/a/a2/Binarytree-uneven.GIF)
+![Binarytree-uneven](images/advancedstructures/Binarytree-uneven.GIF)
 
 Obviously this tree is still valid but the right side is much larger than the
 left, however finding 25 still only takes 7 comparisons in this compared to 12
