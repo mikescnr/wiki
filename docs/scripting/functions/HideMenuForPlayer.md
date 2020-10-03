@@ -46,7 +46,7 @@ Crashes the both server and player if an invalid menu ID given.
 - SetMenuColumnHeader: Set the header for one of the columns in a menu.
 - CreateMenu: Create a menu.
 
-- [CreateMenu](../../scripting/functions/CreateMenu.md): Create a menu.
-- [AddMenuItem](../../scripting/functions/AddMenuItem.md): Adds an item to a specified menu.
-- [SetMenuColumnHeader](../../scripting/functions/SetMenuColumnHeader.md): Set the header for one of the columns in a menu.
-- [ShowMenuForPlayer](../../scripting/functions/ShowMenuForPlayer.md): Show a menu for a player.
+- [CreateMenu](../functions/CreateMenu.md): Create a menu.
+- [AddMenuItem](../functions/AddMenuItem.md): Adds an item to a specified menu.
+- [SetMenuColumnHeader](../functions/SetMenuColumnHeader.md): Set the header for one of the columns in a menu.
+- [ShowMenuForPlayer](../functions/ShowMenuForPlayer.md): Show a menu for a player.
