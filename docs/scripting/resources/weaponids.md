@@ -10,7 +10,7 @@ To be used with [OnPlayerDeath](../callbacks/OnPlayerDeath), [GivePlayerWeapon](
 
 ---
 
-| Hud Icon                                                              | Death Reason                                       | Definition              | ID  | Slot | Model | Notes                                                                                                            |
+| HUD Icon & Name                                                       | Death Icon                                         | Definition              | ID  | Slot | Model | Notes                                                                                                            |
 | --------------------------------------------------------------------- | -------------------------------------------------- | ----------------------- | --- | ---- | ----- | ---------------------------------------------------------------------------------------------------------------- |
 | ![](/images/weaponIcons/fist.png)<br/>Fist                            | ![](/images/deathIcons/death-fist.gif)             | -                       | 0   | 0    | -     | -                                                                                                                |
 | ![](/images/weaponIcons/brassKnuckles.png)<br/>Brass Knuckles         | ![](/images/deathIcons/death-brassKnuckles.gif)    | WEAPON_BRASSKNUCKLE     | 1   | 0    | 331   | -                                                                                                                |
